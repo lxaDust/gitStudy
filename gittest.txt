@@ -1,1 +1,2 @@
-git学习使用
+for git Study 
+v0.2
